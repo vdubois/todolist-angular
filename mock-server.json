@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "you rock !!",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "laundry",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "dunno",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
